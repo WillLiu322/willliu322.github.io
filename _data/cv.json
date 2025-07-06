@@ -1,152 +1,152 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Wei Liu",
+    "email": "2372288@stu.neu.edu.cn",
+    "phone": "+86-13292731722",
+    "website": "",
+    "summary": "Master of Control Engineering, Northeastern University. Research on collaborative control of connected vehicle platoons.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "",
+      "countryCode": "CN",
       "region": ""
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "profiles": []
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Northeastern University, China",
+      "area": "Master of Control Engineering",
+      "studyType": "Master",
+      "startDate": "2023-09",
+      "endDate": "Present",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "summary": "Overall Ranking in the Major: 1/113"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Dalian Polytechnic University, China",
+      "area": "Bachelor of Automation",
+      "studyType": "Bachelor",
+      "startDate": "2018-09",
+      "endDate": "2022-06",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [],
+      "summary": "Overall Ranking in the Major: 2/96"
     }
   ],
-  "skills": [],
+  "work": [],
+  "skills": [
+    {
+      "name": "Programming Language",
+      "level": "",
+      "keywords": ["MATLAB", "C", "Python"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Compensator-Based Fixed-Time Prescribed Performance Control of Vehicular Platoon with Input Nonlinearities: A Performance Boundary Self-Adjusting Approach.",
+      "authors": "Zhenyu Gao, Wei Liu, Zhongyang Wei, Lu Zhang, Ge Guo, Shahid Mumtaz",
+      "publisher": "IEEE Transactions on Intelligent Transportation Systems",
+      "releaseDate": "2025",
+      "summary": "Prescribed performance control of vehicular platoon with input nonlinearities."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Observer-Based Secure Predefined-Time Control of Vehicular Platoon Systems Under Attacks in Sensors and Actuators",
+      "authors": "Zhenyu Gao, Xiang Li, Zhongyang Wei, Wei Liu, Ge Guo, Shixi Wen",
+      "publisher": "IEEE Transactions on Intelligent Transportation Systems",
+      "releaseDate": "2025",
+      "summary": "Secure predefined-time control under attacks."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Adaptive Finite-time Prescribed Performance Control of Vehicular Platoons with Multilevel Threshold and Asymptotic Convergence.",
+      "authors": "Zhenyu Gao, Wei Liu, Zhongyang Wei, Ge Guo",
+      "publisher": "IEEE Transactions on Intelligent Transportation Systems",
+      "releaseDate": "2025",
+      "summary": "Adaptive finite-time prescribed performance control."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Adaptive Finite-Time Prescribed Performance Accurate Tracking Control of Vehicular Platoons with Multilevel Threshold.",
+      "authors": "Zhenyu Gao, Wei Liu, Zhongyang Wei, Lu Zhang, Ge Guo",
+      "publisher": "2024 8th CAA International Conference on Vehicular Control and Intelligence (CVCI)",
+      "releaseDate": "2024",
+      "summary": "Shortlisted for the Best Paper Award."
+    },
+    {
+      "name": "Adaptive Fixed-Time Safety Concurrent Control of Vehicular Platoons with Time-Varying Actuator Faults under Distance Constraints.",
+      "authors": "Wei Liu, Zhongyang Wei, Yuchen Liu, Zhenyu Gao",
+      "publisher": "Mathematics",
+      "releaseDate": "2024",
+      "summary": "Fixed-time safety concurrent control under distance constraints."
+    },
+    {
+      "name": "Adaptive Finite-Time Prescribed Performance Control with Small Overshoot for Uncertain 2-D Plane Vehicular Platoons.",
+      "authors": "Zhenyu Gao, Zhongyang Wei, Wei Liu, Ge Guo",
+      "publisher": "IEEE Transactions on Vehicular Technology",
+      "releaseDate": "2024",
+      "summary": "Small overshoot for uncertain 2-D plane vehicular platoons."
+    },
+    {
+      "name": "Global Prescribed Performance Control for 2-D Plane Vehicular Platoons with Small Overshoot: A Fixed-Time Composite Sliding Mode Control Approach.",
+      "authors": "Zhenyu Gao, Zhongyang Wei, Wei Liu, Lu Zhang, Shixi Wen, Ge Guo",
+      "publisher": "IEEE Transactions on Intelligent Transportation Systems",
+      "releaseDate": "Under review",
+      "summary": "Global prescribed performance control for 2-D plane vehicular platoons."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Master Thesis: Fast Collaborative Control of Connected Vehicle Platoons with Multilevel Thresholds and Boundary Adaptive Constraints",
+      "event": "Northeastern University, China",
+      "date": "2023-09 - Present",
+      "location": "",
+      "description": "Research Focus: Safety control of vehicle platoons under actuator nonlinearity conditions.\nMy Work: 1. Designed a dynamic threshold prescribed performance control algorithm. 2. Proposed a boundary-adaptive prescribed performance control algorithm. 3. Designed a fixed-time asymptotic tracking platoon control algorithm. 4. Built an experimental platform based on ROS-controlled robot."
     }
   ],
-  "teaching": [
+  "teaching": [],
+  "portfolio": [],
+  "honors": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "title": "National Scholarship",
+      "date": "2024"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "title": "The First Prize Scholarship",
+      "date": "2024"
+    },
+    {
+      "title": "The Second Prize Scholarship",
+      "date": "2023"
+    },
+    {
+      "title": "The First Prize Scholarship",
+      "date": "2019"
     }
   ],
-  "portfolio": [
+  "competitions": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Interdisciplinary Math Contest in Modelling (COMAP), Meritorious Winner",
+      "date": "2021"
+    },
+    {
+      "title": "The First Prize of Liaoning Province Physics Academic Competition",
+      "date": "2019"
+    },
+    {
+      "title": "The Second Prize of TI Cup Liaoning Provincial Undergraduate Electronic Design Competition",
+      "date": "2019"
+    },
+    {
+      "title": "The First Prize of Liaoning Province Physics Experiment Competition",
+      "date": "2019"
+    },
+    {
+      "title": "The Third Prize of The Chinese Mathematics Competitions",
+      "date": "2019"
     }
   ]
 }
