@@ -56,5 +56,5 @@ Skills
 
 Services
 ======
- Reviewer of Nonlinear Dynamics
+ Reviewer of *Nonlinear Dynamics*
 
