@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* M.S. in Control Engineering, Northeastern University, 2023-Present
-* B.S. in Automation, Dalian Polytechnic University, 2018-2022
+* M.S. in Control Engineering, Northeastern University, Sep. 2023 - Present
+* B.S. in Automation, Dalian Polytechnic University, Sep. 2018 - Jun. 2022
 
 Work experience
 ======
