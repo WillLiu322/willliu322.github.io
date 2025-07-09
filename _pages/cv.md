@@ -52,21 +52,11 @@ Work experience
 Skills
 ======
 
-### Programming Languages
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+Programming Languages: MATLAB · Python · C / C++
 
-### Robotics & Simulation
-![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)  
-![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?logo=mujoco&logoColor=white)  
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?logo=nvidia&logoColor=white)
+Robotics & Simulation: ROS · MuJoCo · Isaac Sim
 
-### Scientific Writing & Visualization
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)  
-![OriginPro](https://img.shields.io/badge/OriginPro-1A4782?logo=originlab&logoColor=white)  
-![Visio](https://img.shields.io/badge/Visio-39539C?logo=microsoft-visio&logoColor=white)  
-![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?logo=microsoft-powerpoint&logoColor=white)
+Scientific Writing & Visualization: LaTeX · OriginPro · Microsoft Visio · Microsoft PowerPoint
 
 
 Services
