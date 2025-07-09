@@ -56,7 +56,7 @@ Skills
 
 **Robotics & Simulation:** ROS · MuJoCo · Isaac Sim
 
-**Scientific Writing & Visualization:** LaTeX · OriginPro · Microsoft Visio · Microsoft PowerPoint
+**Scientific Writing & Visualization:** LaTeX · Microsoft PowerPoint · OriginPro · Microsoft Visio 
 
 
 Services
