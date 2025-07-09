@@ -52,11 +52,11 @@ Work experience
 Skills
 ======
 
-Programming Languages: MATLAB · Python · C / C++
+**Programming Languages:** MATLAB · Python · C / C++
 
-Robotics & Simulation: ROS · MuJoCo · Isaac Sim
+**Robotics & Simulation:** ROS · MuJoCo · Isaac Sim
 
-Scientific Writing & Visualization: LaTeX · OriginPro · Microsoft Visio · Microsoft PowerPoint
+**Scientific Writing & Visualization:** LaTeX · OriginPro · Microsoft Visio · Microsoft PowerPoint
 
 
 Services
