@@ -51,7 +51,7 @@ Work experience
 
 Skills
 ======
-* **Programming:** MATLAB, Python, C/C++, ROS, Mujoco, Isaac sim
+* **Programming:** MATLAB, Python, C/C++, ROS, Mujoco, Isaac Sim
 * **Scientific Writing & Visualization:** LaTeX, Microsoft Visio, Microsoft Office PowerPoint, Origin, etc.
 
 Services
