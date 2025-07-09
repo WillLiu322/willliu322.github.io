@@ -9,41 +9,40 @@ author_profile: true
 
 ## Fast Collaborative Prescribed Performance Control of Connected Vehicle Platoons with Multilevel Thresholds and Boundary Adaptive Constraints
 
-With the rapid advancement of connected and automated vehicles, vehicular platoon control (VPC) has become a key technology for improving traffic flow, reducing emissions, and enhancing road safety. In practical platoon systems, it is essential to guarantee both steady-state and transient performance, especially under diverse driving scenarios and actuator limitations.
+The rapid advancement of connected and automated vehicles has made **vehicular platoon control (VPC)** a critical technology for enhancing traffic flow, reducing emissions, and improving road safety. In practical platoon systems, it's essential to guarantee both steady-state and transient performance, especially across diverse driving scenarios and under actuator limitations.
 
 <p align="center">
-  <img src="/images/platoon.png" alt="" width="600">
+  <img src="/images/platoon.png" alt="Illustration of a vehicle platoon on a road" width="600">
 </p>
 
-**Key contributions:**
+**Key Contributions:**
 
-This research develops a dynamic-threshold prescribed performance control (PPC) algorithm that adapts to varying driving environments—such as highways and urban congested roads—while avoiding the subjectivity of manually designing performance boundaries. To address actuator dead-zone and saturation nonlinearities, a boundary-adaptive PPC scheme is proposed, which effectively resolves the trade-off between overly loose constraints leading to poor control precision and overly tight constraints causing control singularities. Furthermore, building on traditional finite-time PPC methods, a fixed-time asymptotic tracking control algorithm is designed to ensure that inter-vehicle spacing errors not only converge to a small region but ultimately reach zero. Unlike prior methods, the convergence time is fixed and independent of initial conditions. Finally, an intelligent transportation experimental platform based on ROS-powered vehicles is constructed, where the proposed algorithms are deployed and validated in real-world scenarios.
+* Developed a **dynamic-threshold prescribed performance control (PPC) algorithm** that adapts to varying driving environments (e.g., highways, urban congested roads), eliminating the need for subjective manual design of performance boundaries.
+* Proposed a **boundary-adaptive PPC scheme** to robustly handle actuator dead-zone and saturation nonlinearities, effectively balancing the trade-off between loose constraints (poor precision) and tight constraints (control singularities).
+* Extended traditional finite-time PPC methods by designing a **fixed-time asymptotic tracking control algorithm**. This ensures inter-vehicle spacing errors not only converge to a small region but ultimately reach zero, with a convergence time that is fixed and independent of initial conditions.
+* Constructed an intelligent transportation experimental platform utilizing **ROS-powered vehicles**, enabling real-world deployment and validation of the proposed algorithms.
 
+**Related Papers:**
+* **Wei Liu**, Zhenyu Gao, Zhongyang Wei, Lu Zhang, Ge Guo, Shahid Mumtaz. “Compensator-Based Fixed-Time Prescribed Performance Control of Vehicular Platoon with Input Nonlinearities: A Performance Boundary Self-Adjusting Approach." *IEEE Transactions on Intelligent Transportation Systems*, 2025. [[Link](https://ieeexplore.ieee.org/document/11059991/)]
+* Zhenyu, Gao, **Wei Liu**, Zhongyang Wei, Ge Guo. “Adaptive Finite-time Prescribed Performance Control of Vehicular Platoons with Multilevel Threshold and Asymptotic Convergence." *IEEE Transactions on Intelligent Transportation Systems*, 2025. [[Link](https://ieeexplore.ieee.org/document/10878275/)]
+* Zhenyu Gao, **Wei Liu**, Zhongyang Wei, Lu Zhang, Ge Guo. "Adaptive Finite-Time Prescribed Performance Accurate Tracking Control of Vehicular Platoons with Multilevel Threshold." *2024 8th CAA International Conference on Vehicular Control and Intelligence (CVCI)*, 2024. (**Shortlisted for the Best Paper Award**). [[Link](https://ieeexplore.ieee.org/document/10830255/)]
 
-**Related papers**
-- **Wei Liu**, Zhenyu Gao, Zhongyang Wei, Lu Zhang, Ge Guo, Shahid Mumtaz. “Compensator-Based Fixed-Time Prescribed Performance Control of Vehicular Platoon with Input Nonlinearities: A Performance Boundary Self-Adjusting Approach." *IEEE Transactions on Intelligent Transportation Systems*, 2025. [Link](https://ieeexplore.ieee.org/document/11059991/)
-
-- Zhenyu, Gao, **Wei Liu**, Zhongyang Wei, Ge Guo. “Adaptive Finite-time Prescribed Performance Control of Vehicular Platoons with Multilevel Threshold and Asymptotic Convergence." *IEEE Transactions on Intelligent Transportation Systems*, 2025. [Link](https://ieeexplore.ieee.org/document/10878275/)
-
-- Zhenyu Gao, **Wei Liu**, Zhongyang Wei, Lu Zhang, Ge Guo. "Adaptive Finite-Time Prescribed Performance Accurate Tracking Control of Vehicular Platoons with Multilevel Threshold." *2024 8th CAA International Conference on Vehicular Control and Intelligence (CVCI)*, 2024. (**This paper has been shortlisted for the Best Paper Award**). [Link](https://ieeexplore.ieee.org/document/10830255/)
-
+---
 
 ## Fast Cooperative Control of 2-D Networked Vehicular Platoons with Prescribed Performance Constraints
 
-In modern intelligent transportation systems, coordinating multiple vehicles into tightly coupled platoons has become a cornerstone for enhancing road capacity, reducing fuel consumption and emissions, and improving overall traffic safety. While most classical approaches address only one‑dimensional, single‑lane scenarios with limited performance guarantees or rely heavily on precise initial conditions, real‑world operations demand flexible, robust control across two‑dimensional maneuvers such as merging, lane changes and obstacle avoidance under model uncertainties and external disturbances. Ensuring both fast transient response and tight steady‑state accuracy in such 2‑D platoons calls for new modeling and control paradigms.
+In modern intelligent transportation systems, coordinating multiple vehicles into tightly coupled platoons is fundamental for enhancing road capacity, reducing fuel consumption and emissions, and improving overall traffic safety. While most classical approaches are limited to one-dimensional, single-lane scenarios with restricted performance guarantees or reliance on precise initial conditions, real-world operations demand flexible, robust control for **two-dimensional maneuvers** like merging, lane changes, and obstacle avoidance, even under model uncertainties and external disturbances. Ensuring both rapid transient response and high steady-state accuracy in such 2-D platoons necessitates new modeling and control paradigms.
+
 <div style="text-align: center;">
-<img src="/images/车队变道.png" alt="" width="400" style="display:inline-block; margin-right:10px;"/>
-<img src="/images/多车道融合.png" alt="" width="400" style="display:inline-block;"/></div>
+<img src="/images/车队变道.png" alt="Image of vehicles performing a lane change" width="400" style="display:inline-block; margin-right:10px;"/>
+<img src="/images/多车道融合.png" alt="Image of vehicles merging across multiple lanes" width="400" style="display:inline-block;"/></div>
 
-**Key contributions:**
+**Key Contributions:**
 
-Develop a more general third‑order vehicle‑platoon model that captures realistic longitudinal and lateral dynamics. Through extensive simulations, validate the proposed two‑dimensional control schemes in diverse practical scenarios (for example multi‑lane merging and obstacle avoidance) to demonstrate their effectiveness in real‑life applications.
+* Developed a more general **third-order vehicle-platoon model** that accurately captures realistic longitudinal and lateral dynamics, enabling comprehensive simulation and validation of proposed 2D control schemes in diverse practical scenarios (e.g., multi-lane merging, obstacle avoidance).
+* Designed **novel performance functions** that are independent of each vehicle's initial state. These functions guarantee the platoon’s dynamic and transient performance remains within user-specified bounds, addressing both transient behavior and steady-state accuracy critical for cooperative control.
+* Introduced a **sliding-mode control strategy with built-in convergence-time constraints** to accommodate the complexity of the third-order model. This method significantly accelerates the system’s settling speed while ensuring both individual vehicle stability and overall platoon string stability within a predetermined timeframe.
 
-Recognizing that both transient behavior and steady‑state accuracy are critical for cooperative control, design novel performance functions that require no knowledge of each vehicle’s initial state yet guarantee that the platoon’s dynamic and transient performance remains within user‑specified bounds.
-
-To accommodate the complexity of the third‑order model, introduce a sliding‑mode control strategy with built‑in convergence‑time constraints. This method accelerates the system’s settling speed and ensures both individual vehicle stability and overall platoon string stability within a predetermined time frame.
-
-**Related papers**
-- Zhenyu Gao, Zhongyang Wei, **Wei Liu**, Ge Guo. “Adaptive Finite-Time Prescribed Performance Control with Small Overshoot for Uncertain 2-D Plane Vehicular Platoons." *IEEE Transactions on Vehicular Technology*, 2024. [Link](https://ieeexplore.ieee.org/document/10684117/)
-
-- Zhenyu Gao, Zhongyang Wei, **Wei Liu**, Lu Zhang, Shixi Wen, Ge Guo. “Global Prescribed Performance Control for 2-D Plane Vehicular Platoons with Small Overshoot: A Fixed-Time Composite Sliding Mode Control Approach.” *IEEE Transactions on Intelligent Transportation Systems*, (Under review).
+**Related Papers:**
+* Zhenyu Gao, Zhongyang Wei, **Wei Liu**, Ge Guo. “Adaptive Finite-Time Prescribed Performance Control with Small Overshoot for Uncertain 2-D Plane Vehicular Platoons." *IEEE Transactions on Vehicular Technology*, 2024. [[Link](https://ieeexplore.ieee.org/document/10684117/)]
+* Zhenyu Gao, Zhongyang Wei, **Wei Liu**, Lu Zhang, Shixi Wen, Ge Guo. “Global Prescribed Performance Control for 2-D Plane Vehicular Platoons with Small Overshoot: A Fixed-Time Composite Sliding Mode Control Approach.” *IEEE Transactions on Intelligent Transportation Systems*, (Under review).
