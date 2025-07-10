@@ -18,7 +18,7 @@ redirect_from:
 # Work Experience
 * **Research Assistant**, Central South University, May 2025 - Present
   
-  * Assisted in developing a human-robot collaboration system by integrating hardware and software using ROS 2, MoveIt, and Isaac Sim, while learning motion planning and visual perception modules.
+  * Gained expertise in building simulation and integration environments with ROS 2, MoveIt, and Isaac Sim, while also developing a strong understanding of Imitation Learning algorithms, Motion Planning, and Visual Perception modules.
 
 ---
 
