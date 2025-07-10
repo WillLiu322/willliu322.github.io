@@ -16,7 +16,7 @@ The rapid advancement of connected and automated vehicles has made **vehicular p
 </p>
 
 **Key Contributions:**
-Engineered a **dynamic-threshold prescribed performance control (PPC) algorithm** , enabling it to adapt the stringency of performance constraints in response to diverse driving scenarios (e.g., highway cruising vs. urban congestion), thereby eliminating the subjectivity inherent in manual boundary design.
+* Engineered a **dynamic-threshold prescribed performance control (PPC) algorithm** , enabling it to adapt the stringency of performance constraints in response to diverse driving scenarios (e.g., highway cruising vs. urban congestion), thereby eliminating the subjectivity inherent in manual boundary design.
 
 * Proposed a **boundary-adaptive PPC scheme** to robustly handle actuator dead-zone and saturation nonlinearities, effectively balancing the trade-off between loose constraints (poor precision) and tight constraints (control singularities).
 * Designed a **fixed-time nonlinear compensator** to completely eliminate nonlinear input deviations, achieving this with reduced design complexity.
