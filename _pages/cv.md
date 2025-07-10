@@ -17,8 +17,7 @@ redirect_from:
 
 # Work Experience
 * **Research Assistant**, Central South University, May 2025 - Present
-    * Developed a human-robot collaboration system by integrating hardware and software using ROS 2, MoveIt, and Isaac Sim.
-    * Gained expertise in motion planning and visual perception modules.
+Assisted in developing a human-robot collaboration system by integrating hardware and software using ROS 2, MoveIt, and Isaac Sim, while learning motion planning and visual perception modules.
 
 ---
 
@@ -38,8 +37,8 @@ redirect_from:
 * **First Prize Scholarship**, Northeastern University, 2024
 * Second Prize Scholarship, Northeastern University, 2023
 * **Meritorious Winner (Top 7%)**, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Applications (COMAP), 2021
-* **First Prize**, Liaoning Province Physics Academic Competition, Liaoning Provincial Physics Society, 2019
-* **First Prize**, Liaoning Province Physics Experiment Competition, Liaoning Provincial Physics Society, 2019
+* First Prize, Liaoning Province Physics Academic Competition, Liaoning Provincial Physics Society, 2019
+* First Prize, Liaoning Province Physics Experiment Competition, Liaoning Provincial Physics Society, 2019
 * Second Prize, TI Cup Liaoning Provincial Undergraduate Electronic Design Competition, Liaoning Provincial Innovation and Entrepreneurship Education Steering Committee for General Higher Education Institutions, 2019
 * Third Prize, Chinese Mathematics Competitions (Non-Mathematics Category), Chinese Mathematical Society, 2019
 * First Prize Scholarship, Dalian Polytechnic University, 2019
