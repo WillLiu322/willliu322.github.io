@@ -47,8 +47,7 @@ redirect_from:
 ---
 
 # Skills
-* **Programming Languages:** MATLAB, Python, C/C++
-* **Robotics & Simulation:** ROS, MuJoCo, Isaac Sim
+* **Programming & Tools:** MATLAB, Python, C/C++, ROS, MuJoCo, Isaac Sim
 * **Scientific Writing & Visualization:** LaTeX, Microsoft PowerPoint, OriginPro, Microsoft Visio
 
 ---
