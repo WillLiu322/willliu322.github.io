@@ -45,4 +45,4 @@ In modern intelligent transportation systems, coordinating multiple vehicles int
 
 **Related Papers:**
 * Zhenyu Gao, Zhongyang Wei, **Wei Liu**, Ge Guo. “Adaptive Finite-Time Prescribed Performance Control with Small Overshoot for Uncertain 2-D Plane Vehicular Platoons." *IEEE Transactions on Vehicular Technology*, 2024. [[Link](https://ieeexplore.ieee.org/document/10684117/)]
-* Zhenyu Gao, Zhongyang Wei, **Wei Liu**, Lu Zhang, Shixi Wen, Ge Guo. “Global Prescribed Performance Control for 2-D Plane Vehicular Platoons with Small Overshoot: A Fixed-Time Composite Sliding Mode Control Approach.” *IEEE Transactions on Intelligent Transportation Systems*, (Under review).
+* Zhenyu Gao, Zhongyang Wei, **Wei Liu**, Lu Zhang, Shixi Wen, Ge Guo. “Global Prescribed Performance Control for 2-D Plane Vehicular Platoons with Small Overshoot: A Fixed-Time Composite Sliding Mode Control Approach.” *IEEE Transactions on Intelligent Transportation Systems*, 2025.[[Link](https://ieeexplore.ieee.org/document/11128947/)].
