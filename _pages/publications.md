@@ -7,6 +7,8 @@ author_profile: true
 
 ## Publications
 
+- Zhenyu Gao, Zhongyang Wei, **Wei Liu**, Lu Zhang, Shixi Wen, Ge Guo. “Global Prescribed Performance Control for 2-D Plane Vehicular Platoons with Small Overshoot: A Fixed-Time Composite Sliding Mode Control Approach.” *IEEE Transactions on Intelligent Transportation Systems*, 2025.[[Link](https://ieeexplore.ieee.org/document/11128947/)].
+
 - **Wei Liu**, Zhenyu Gao, Zhongyang Wei, Lu Zhang, Ge Guo, Shahid Mumtaz. “Compensator-Based Fixed-Time Prescribed Performance Control of Vehicular Platoon with Input Nonlinearities: A Performance Boundary Self-Adjusting Approach." IEEE Transactions on Intelligent Transportation Systems, 2025. [Link](https://ieeexplore.ieee.org/document/11059991/)
 
 - Zhenyu Gao, Xiang Li, Zhongyang Wei, **Wei Liu**, Ge Guo, Shixi Wen, "Observer-Based Secure Predefined-Time Control of Vehicular Platoon Systems Under Attacks in Sensors and Actuators," IEEE Transactions on Intelligent Transportation Systems, 2025. [Link](https://ieeexplore.ieee.org/document/10897308/)
