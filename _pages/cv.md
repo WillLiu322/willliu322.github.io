@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 # Work Experience
-* **Research Assistant**, Central South University, May 2025 - Present
+* **Research Assistant**, Central South University, May 2025 - Aug. 2025
   
   *  Gained expertise in building simulation and integration environments with ROS 2, MoveIt, and Isaac Sim, while also developing a deeper understanding of Imitation Learning algorithms, Motion Planning, and Visual Perception modules.
 
