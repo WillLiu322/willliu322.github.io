@@ -20,6 +20,10 @@ redirect_from:
   
   *  Gained expertise in building simulation and integration environments with ROS 2, MoveIt, and Isaac Sim, while also developing a deeper understanding of Imitation Learning algorithms, Motion Planning, and Visual Perception modules.
 
+* **Research Assistant**,The Hong Kong University of Science and Technology (Guangzhou), September 2025 - November. 2025
+  
+  *  Research focuses on systematic methods for maintaining safety constraints in systems with random mode switching and time-varying input dynamics under uncertainty..
+
 ---
 
 # Publications
@@ -34,7 +38,9 @@ redirect_from:
 ---
 
 # Selected Honors
+* **National Scholarship**, Ministry of Education of China, 2025
 * **National Scholarship**, Ministry of Education of China, 2024
+* * **First Prize Scholarship**, Northeastern University, 2025
 * **First Prize Scholarship**, Northeastern University, 2024
 * Second Prize Scholarship, Northeastern University, 2023
 * **Meritorious Winner (Top 7%)**, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Applications (COMAP), 2021
