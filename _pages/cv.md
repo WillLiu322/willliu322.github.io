@@ -40,7 +40,7 @@ redirect_from:
 # Selected Honors
 * **National Scholarship**, Ministry of Education of China, 2025
 * **National Scholarship**, Ministry of Education of China, 2024
-* * **First Prize Scholarship**, Northeastern University, 2025
+* **First Prize Scholarship**, Northeastern University, 2025
 * **First Prize Scholarship**, Northeastern University, 2024
 * Second Prize Scholarship, Northeastern University, 2023
 * **Meritorious Winner (Top 7%)**, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and Its Applications (COMAP), 2021
