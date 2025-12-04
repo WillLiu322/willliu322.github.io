@@ -20,7 +20,7 @@ redirect_from:
   
   *  Gained expertise in building simulation and integration environments with ROS 2, MoveIt, and Isaac Sim, while also developing a deeper understanding of Imitation Learning algorithms, Motion Planning, and Visual Perception modules.
 
-* **Research Assistant**,The Hong Kong University of Science and Technology (Guangzhou), September 2025 - November. 2025
+* **Research Assistant**, The Hong Kong University of Science and Technology (Guangzhou), September 2025 - November. 2025
   
   *  Research focuses on systematic methods for maintaining safety constraints in systems with random mode switching and time-varying input dynamics under uncertainty..
 
