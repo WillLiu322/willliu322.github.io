@@ -18,7 +18,7 @@ redirect_from:
 # Work Experience
 * **Research Assistant**, Central South University, May 2025 - Aug. 2025
   
-  *  Gained expertise in building simulation and integration environments with ROS 2, MoveIt, and Isaac Sim, while also developing a deeper understanding of Imitation Learning algorithms, Motion Planning, and Visual Perception modules.
+  *  Focused on learning robot hardware assembly and simulation platform development, including basic hardware setup and system configuration.
 
 * **Research Assistant**, The Hong Kong University of Science and Technology (Guangzhou), September 2025 - November. 2025
   
@@ -55,9 +55,5 @@ redirect_from:
 # Skills
 * **Programming Languages:** MATLAB, Python, C/C++
 * **Robotics & Simulation Tools:** ROS, MuJoCo, Isaac Sim
-* **Scientific Writing & Visualization:** LaTeX, Microsoft PowerPoint, OriginPro, Microsoft Visio
+* **Hardware:** STM32
 
----
-
-# Services
-* Reviewer for *Nonlinear Dynamics*
