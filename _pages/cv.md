@@ -22,7 +22,7 @@ redirect_from:
 
 * **Research Assistant**, The Hong Kong University of Science and Technology (Guangzhou), September 2025 - November. 2025
   
-  *  Research focuses on systematic methods for maintaining safety constraints in systems with random mode switching and time-varying input dynamics under uncertainty..
+  *  Designed control barrier functions (CBFs) for dynamic systems with Markovian jump input delays to enforce safety constraints.
 
 ---
 
